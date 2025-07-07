@@ -1,4 +1,7 @@
-# Whale Detection Using Synthetic Data and YOLOv8
+#  Generating Synthetic Dataset & Train Object Detection Module For Real-World Maritime Task
+
+This project was done in collaboration with the OrcaAI company for creating a solution to real-world maritime business task.
+![image](https://github.com/user-attachments/assets/35ce73d9-017b-414b-8573-65754b884f22)
 
 ## Overview
 
@@ -29,6 +32,24 @@ The trained YOLOv8 model successfully detected marine mammals in diverse synthet
 
 To complete the integration with OrcaAI’s system, the model will be tested on the company’s full image archive. Future improvements could include expanding the dataset with new species, incorporating multi-angle imagery, and embedding the model into real-time edge-processing pipelines.
 
+## Visualization 
+### 1. Raw mammals & backgroun photos process: 
+    ![image](https://github.com/user-attachments/assets/7f0afe7c-bfee-4446-8859-79865a76e08d)
+    ![image](https://github.com/user-attachments/assets/a9b34b7b-d98e-4cc2-9c94-6b109899f1a7)
+    ![image](https://github.com/user-attachments/assets/c0f33f30-3a07-45bb-ad32-c2e67e3f2457)
+
+### 2. Synthetic Dataset exemples:
+  ![image](https://github.com/user-attachments/assets/628704ae-9363-491f-b75d-6a4d0632ba32)
+  ![image](https://github.com/user-attachments/assets/77cd56b7-b68b-4cdb-9691-a2f97103c945)
+  ![image](https://github.com/user-attachments/assets/059ebf0f-322d-45ee-8a0f-db940ffdf72f)
+
+### 3. Detection moudle results: 
+  ![image](https://github.com/user-attachments/assets/9258821a-ee2a-45f4-8a1c-b4bfe8779e04)
+  ![image](https://github.com/user-attachments/assets/6324672c-c878-4c0a-8c67-a3dc4ec253ef)
+  ![image](https://github.com/user-attachments/assets/cfbdb5a7-6149-4737-8e36-d70235113687)
+  ![image](https://github.com/user-attachments/assets/5a9daf48-cb90-467b-a2bb-b570eaaf880a)
+
+
 ## Acknowledgments
 
-Special thanks to Roy Frumkis for his guidance and mentorship throughout this project.
+Special thanks to OrcaAI for their guidance and trust throughout this project.
