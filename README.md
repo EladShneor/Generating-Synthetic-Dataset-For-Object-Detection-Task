@@ -1,4 +1,4 @@
-#  Generating Synthetic Dataset & Train Object Detection Module For Real-World Maritime Task
+#  Generating Synthetic Dataset & Train Object Detection Modle For Real-World Maritime Task
 
 This project was done in collaboration with the OrcaAI company for creating a solution to real-world maritime business task.
 ![image](https://github.com/user-attachments/assets/35ce73d9-017b-414b-8573-65754b884f22)
@@ -34,9 +34,9 @@ To complete the integration with OrcaAI’s system, the model will be tested on 
 
 ## Visualization 
 ### 1. Raw mammals & backgroun photos process: 
-    ![image](https://github.com/user-attachments/assets/7f0afe7c-bfee-4446-8859-79865a76e08d)
-    ![image](https://github.com/user-attachments/assets/a9b34b7b-d98e-4cc2-9c94-6b109899f1a7)
-    ![image](https://github.com/user-attachments/assets/c0f33f30-3a07-45bb-ad32-c2e67e3f2457)
+  ![image](https://github.com/user-attachments/assets/7f0afe7c-bfee-4446-8859-79865a76e08d)
+  ![image](https://github.com/user-attachments/assets/a9b34b7b-d98e-4cc2-9c94-6b109899f1a7)
+  ![image](https://github.com/user-attachments/assets/c0f33f30-3a07-45bb-ad32-c2e67e3f2457)
 
 ### 2. Synthetic Dataset exemples:
   ![image](https://github.com/user-attachments/assets/628704ae-9363-491f-b75d-6a4d0632ba32)
