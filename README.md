@@ -43,7 +43,7 @@ To complete the integration with OrcaAI’s system, the model will be tested on 
   ![image](https://github.com/user-attachments/assets/77cd56b7-b68b-4cdb-9691-a2f97103c945)
   ![image](https://github.com/user-attachments/assets/059ebf0f-322d-45ee-8a0f-db940ffdf72f)
 
-### 3. Detection moudle results: 
+### 3. Detection modle results: 
   ![image](https://github.com/user-attachments/assets/9258821a-ee2a-45f4-8a1c-b4bfe8779e04)
   ![image](https://github.com/user-attachments/assets/6324672c-c878-4c0a-8c67-a3dc4ec253ef)
   ![image](https://github.com/user-attachments/assets/cfbdb5a7-6149-4737-8e36-d70235113687)
