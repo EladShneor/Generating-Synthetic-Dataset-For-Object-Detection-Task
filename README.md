@@ -1,7 +1,6 @@
 #  Generating Synthetic Dataset & Train Object Detection Modle For Real-World Maritime Task
 
 This project was done in collaboration with the OrcaAI company for creating a solution to real-world maritime business task.
-![image](https://github.com/user-attachments/assets/35ce73d9-017b-414b-8573-65754b884f22)
 
 ## Overview
 
